@@ -6,5 +6,4 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classifi
 For Practice - UCI Machine learning
 https://archive.ics.uci.edu/ml/index.php
 
-AI Masters
-https://www.udemy.com/user/hadelin-de-ponteves/
+
