@@ -12,3 +12,6 @@ Books Collection
 More about Neural networks and Deep Learning Michale Nileson 
 
 http://neuralnetworksanddeeplearning.com/chap1.html
+
+ANN-Pooling refer:
+scs.reyserson.ca/
