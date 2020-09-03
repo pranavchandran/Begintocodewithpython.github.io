@@ -15,3 +15,6 @@ http://neuralnetworksanddeeplearning.com/chap1.html
 
 ANN-Pooling refer:
 scs.reyserson.ca/
+
+God father of AI:-
+  Jeffery Hinton-videos
