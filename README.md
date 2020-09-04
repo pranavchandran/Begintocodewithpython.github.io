@@ -25,3 +25,5 @@ God father of AI:-
  
  https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
  
+Refer CNN for good reading
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
