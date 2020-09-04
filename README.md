@@ -20,3 +20,8 @@ God father of AI:-
   Jeffery Hinton-videos
   
   https://olympus.greatlearning.in/courses/10902
+  
+ Anaconda Steps
+ 
+ https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
+ 
