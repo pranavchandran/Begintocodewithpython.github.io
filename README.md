@@ -18,3 +18,5 @@ scs.reyserson.ca/
 
 God father of AI:-
   Jeffery Hinton-videos
+  
+  https://olympus.greatlearning.in/courses/10902
