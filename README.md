@@ -27,3 +27,6 @@ God father of AI:-
  
 Refer CNN for good reading
 https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+
+for image dataprocessing keras help to identify in dog or cat case
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
