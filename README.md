@@ -30,3 +30,5 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neura
 
 for image dataprocessing keras help to identify in dog or cat case
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
+Sunspring movie - RNN details by Benjamin
