@@ -32,3 +32,6 @@ for image dataprocessing keras help to identify in dog or cat case
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 
 Sunspring movie - RNN details by Benjamin
+
+deep learning reference
+http://karpathy.github.io/
