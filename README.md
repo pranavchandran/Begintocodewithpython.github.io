@@ -35,3 +35,5 @@ Sunspring movie - RNN details by Benjamin
 
 deep learning reference
 http://karpathy.github.io/
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
