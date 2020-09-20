@@ -21,6 +21,10 @@ God father of AI:-
   
   https://olympus.greatlearning.in/courses/10902
   
+  
+ Machine Learning 10 hour class youtube
+ https://www.youtube.com/watch?v=URLwFGwCBb0
+  
  Anaconda Steps
  
  https://www.digitalocean.com/community/tutorials/how-to-install-anaconda-on-ubuntu-18-04-quickstart
