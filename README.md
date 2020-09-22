@@ -44,3 +44,8 @@ http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 Study More about self organising maps(SOM) Reference
 https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf
+
+Kohonens self organizing feature maps
+http://www.ai-junkie.com/ann/som/som1.html
+
+
