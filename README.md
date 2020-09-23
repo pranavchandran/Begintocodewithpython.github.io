@@ -55,3 +55,5 @@ Visulaizing and creative coding JS
 https://bl.ocks.org/
 
 http://localhost/wordpress/wp-admin/
+
+https://www.superdatascience.com/pages/deep-learning
